@@ -19,7 +19,7 @@ const navItems = [
   { href: "/dashboard/ai", label: "AI", icon: BotIcon },
   { href: "/dashboard/sessions", label: "Sessions", icon: MessagesSquareIcon },
   { href: "/dashboard/live-chat", label: "Playgrounds", icon: MessageSquareIcon },
-  // { href: "/dashboard/knowledge-base", label: "Knowledge Base", icon: DatabaseIcon },
+  { href: "/dashboard/knowledge-base", label: "Knowledge Base", icon: DatabaseIcon },
   { href: "/dashboard/logs", label: "Logs", icon: LogsIcon },
   { href: "/dashboard/analytics", label: "Analytics", icon: ChartColumnIcon },
 ];
